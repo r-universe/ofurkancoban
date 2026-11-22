@@ -5,3 +5,6 @@
 [submodule "inkaR"]
 	path = inkaR
 	url = https://github.com/ofurkancoban/inkar
+[submodule "pksR"]
+	path = pksR
+	url = https://github.com/ofurkancoban/pksr
